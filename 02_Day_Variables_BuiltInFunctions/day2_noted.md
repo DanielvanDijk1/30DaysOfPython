@@ -1,5 +1,6 @@
 # Day 2 Notes
 
+# Functions
 | Function | What it does |
 |---|---|
 | `abs()` | Returns absolute value. |
@@ -71,3 +72,95 @@
 | `vars()` | Returns an object’s attribute dictionary. |
 | `zip()` | Combines items from multiple iterables. |
 | `__import__()` | Imports a module internally. |
+
+# Key words
+
+## Constants and logical operators
+
+| Keyword | Category | What it does |
+|---|---|---|
+| `True` | Constant | Represents a true Boolean value. |
+| `False` | Constant | Represents a false Boolean value. |
+| `None` | Constant | Represents no value or the absence of a value. |
+| `and` | Logical operator | True when both conditions are true. |
+| `or` | Logical operator | True when at least one condition is true. |
+| `not` | Logical operator | Reverses a Boolean value. |
+| `is` | Identity operator | Checks whether two names refer to the same object. |
+| `in` | Membership operator | Checks whether a value exists inside a collection. |
+
+## Conditional logic
+
+| Keyword | Category | What it does |
+|---|---|---|
+| `if` | Conditional | Runs code when a condition is true. |
+| `elif` | Conditional | Tests another condition if earlier conditions were false. |
+| `else` | Conditional | Runs code when all preceding conditions are false. |
+| `match` | Pattern matching | Compares a value against defined patterns. |
+| `case` | Pattern matching | Defines a pattern inside a `match` statement. |
+
+## Loops and loop control
+
+| Keyword | Category | What it does |
+|---|---|---|
+| `for` | Loop | Iterates over items in a collection. |
+| `while` | Loop | Repeats code while a condition is true. |
+| `break` | Loop control | Exits a loop immediately. |
+| `continue` | Loop control | Skips to the next loop iteration. |
+| `pass` | Placeholder | Does nothing; used where code is required syntactically. |
+
+## Functions and generators
+
+| Keyword | Category | What it does |
+|---|---|---|
+| `def` | Function | Defines a reusable function. |
+| `return` | Function control | Sends a result back from a function. |
+| `lambda` | Function | Creates a small anonymous function. |
+| `yield` | Generator | Produces a value while pausing the function. |
+
+## Classes and object-oriented programming
+
+| Keyword | Category | What it does |
+|---|---|---|
+| `class` | Class | Defines a class or object blueprint. |
+| `super` | Inheritance | Accesses methods from a parent class. |
+| `self` | Convention | Refers to the current object; technically not a keyword. |
+
+## Imports and namespaces
+
+| Keyword | Category | What it does |
+|---|---|---|
+| `import` | Import | Loads a module. |
+| `from` | Import | Imports a specific item from a module. |
+| `as` | Alias | Gives an imported item another name. |
+| `global` | Scope | Refers to a variable in the global scope. |
+| `nonlocal` | Scope | Refers to a variable in an enclosing function scope. |
+
+## Error handling
+
+| Keyword | Category | What it does |
+|---|---|---|
+| `try` | Error handling | Starts code that might cause an error. |
+| `except` | Error handling | Handles a specific error. |
+| `else` | Error handling | Runs if the `try` block succeeds. |
+| `finally` | Error handling | Runs whether an error occurs or not. |
+| `raise` | Error handling | Manually triggers an exception. |
+| `assert` | Debugging | Checks a condition and raises an error if false. |
+
+## Asynchronous programming
+
+| Keyword | Category | What it does |
+|---|---|---|
+| `async` | Asynchronous programming | Defines asynchronous code. |
+| `await` | Asynchronous programming | Waits for an asynchronous operation to finish. |
+
+## Deleting and managing names
+
+| Keyword | Category | What it does |
+|---|---|---|
+| `del` | Object management | Deletes a variable, item, or attribute. |
+
+## Context managers
+
+| Keyword | Category | What it does |
+|---|---|---|
+| `with` | Context management | Manages resources such as opened files. |
