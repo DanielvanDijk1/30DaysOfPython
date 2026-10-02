@@ -40,7 +40,11 @@ Dictionary
   - "name": "ASML",
   - "ticker": "ASML",
   - "revenue_growth": 0.12}
-- "name" is a key; "ASML" is its value. 
+- "name" is a key; "ASML" is its value.
+- Can print all keys, values, or keys AND values as such:print(person_info.keys())
+  - print(person_info.keys())
+  - print(person_info.values())
+  - print(person_info.items())
 
 Tuple
 - Fixed list, cannot change it (e.g. values in the tuple can’t be changed, as opposed to list data types)
