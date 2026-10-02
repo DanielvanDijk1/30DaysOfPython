@@ -48,5 +48,5 @@ Dictionary
 
 Tuple
 - Fixed list, cannot change it (e.g. values in the tuple can’t be changed, as opposed to list data types)
-- E.g. {1, 2, 3}
+- E.g. (1, 2, 3)
 - Note round brackets
