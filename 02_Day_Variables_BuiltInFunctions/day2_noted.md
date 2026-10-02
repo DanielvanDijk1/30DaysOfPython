@@ -1,5 +1,12 @@
 # Day 2 Notes
 
+# Variables
+Python Variable Name Rules
+- A variable name must start with a letter or the underscore character
+- A variable name cannot start with a number
+- A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ ). Note _if can be used while preserving the if statement for functions
+- Variable names are case-sensitive (firstname, Firstname, FirstName and FIRSTNAME) are different variables)
+
 # Functions
 | Function | What it does |
 |---|---|
