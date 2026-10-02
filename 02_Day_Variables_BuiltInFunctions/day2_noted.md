@@ -65,7 +65,7 @@
 | `sorted()` | Returns items in sorted order. |
 | `staticmethod()` | Defines a method without automatic `self` or `cls`. |
 | `str()` | Converts a value to text. |
-| `sum()` | Adds numeric items. |
+| `sum()` | Adds numeric items **must be insterted in a list** |
 | `super()` | Accesses methods from a parent class. |
 | `tuple()` | Creates a tuple. |
 | `type()` | Returns an object’s type. |
