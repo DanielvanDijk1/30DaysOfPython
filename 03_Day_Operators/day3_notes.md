@@ -1,5 +1,6 @@
 # Day 3
 
+## Assignment Operators
 - Left column: Python operators
 - Middle column: Example formula
 - Right column: Mathematical equivalent
