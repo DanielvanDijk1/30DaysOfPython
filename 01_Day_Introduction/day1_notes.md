@@ -21,6 +21,7 @@ Open a Python project folder
 
 
 **Data types**
+
 Integer
 
 Float
